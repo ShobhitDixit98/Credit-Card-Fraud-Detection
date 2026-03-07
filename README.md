@@ -61,7 +61,7 @@ This keeps the fraud ratio similar in both train and test datasets.
 1. Clone or download the repository.
 2. Create a virtual environment if needed.
 3. Install the required Python libraries.
-4. Add the dataset files inside the `data/` folder.
+4. Add the dataset files in the same folder with the notebook file.
 5. Launch Jupyter Notebook or JupyterLab.
 6. Open `creditcard_fraud_detection.ipynb` and run the cells in order.
 
